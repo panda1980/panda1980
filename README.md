@@ -16,6 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panda1980&show_icons=true&locale=en&layout=compact" alt="panda1980" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panda1980&show_icons=true&locale=en" alt="panda1980" /></p>
-
----
-
