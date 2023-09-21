@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Visveswaran Vadidyanathan</h1>
+<h1 align="center">Hi 👋, I'm Visveswaran Vaidyanathan</h1>
 <h3 align="center">A passionate developer from Malaysia.</h3>
 <h3 align="center">I’m interested in Anything related to Software Development. A crack head engineer who believes that all there is no diffrence between Software & Hardware in this day & age.Currently working with Rust and Go. 
  </h3>
